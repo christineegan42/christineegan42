@@ -13,9 +13,9 @@
 
  ⚡ Fun fact: I have a  🎓 Bachelor of Arts in Linguistics and Philosophy from Stony Brook University.
 
-💡 To learn more about my work...
-      🌐 christine-egan.xyz
-      📰 christineegan42.medium.com/
-
- 📫 How to reach me:
-     📧 christineegan42@gmail.com
+💡 To learn more about my work...     
+      🌐 christine-egan.xyz        
+      📰 christineegan42.medium.com/      
+ 
+ 📫 How to reach me:     
+     📧 christineegan42@gmail.com     
