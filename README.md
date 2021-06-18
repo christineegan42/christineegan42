@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Christine Egan
  
-## 🔻 DATA ENGINEER 🔻 DATA SCIENTIST 🔻 NATURAL LANGUAGE PROCESSING 🔻 PYTHON
+#### 🔻 DATA ENGINEER 🔻 DATA SCIENTIST 🔻 NATURAL LANGUAGE PROCESSING 🔻 PYTHON
 
 💡 To learn more about my work...     
       ◇ christine-egan.xyz        
